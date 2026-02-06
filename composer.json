@@ -1,5 +1,5 @@
 {
-  "name": "luckyturn/craft-blockboard",
+  "name": "luckyturn/craft-block-board",
   "description": "Visual matrix block picker",
   "type": "craft-plugin",
   "require": {
