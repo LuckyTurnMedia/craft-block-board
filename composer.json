@@ -4,7 +4,7 @@
   "type": "craft-plugin",
   "require": {
     "php": ">=8.2",
-    "craftcms/cms": "^5.8.0"
+    "craftcms/cms": "^5.9.0"
   },
   "require-dev": {
     "craftcms/ecs": "dev-main",
@@ -16,7 +16,7 @@
     }
   },
   "extra": {
-    "handle": "_blockboard",
+    "handle": "_block-board",
     "name": "Block Board",
     "developer": "LuckyTurn",
     "documentationUrl": "",
