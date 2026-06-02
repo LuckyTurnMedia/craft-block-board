@@ -2,6 +2,24 @@
   "name": "luckyturn/craft-block-board",
   "description": "Visual matrix block picker",
   "type": "craft-plugin",
+  "keywords": ["matrix", "editors"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "LuckyTurn Media",
+      "homepage": "https://luckyturnmedia.co.uk"
+    },
+    {
+      "name": "Paul Stone",
+      "homepage": "https://github.com/paulstone"
+    }
+  ],
+  "support": {
+    "email": "paul.stone@luckyturnmedia.co.uk",
+    "issues": "https://github.com/luckyturnmedia/repo/issues?state=open",
+    "source": "https://github.com/luckyturnmedia/repo",
+    "docs": "https://github.com/luckyturnmedia/repo/blob/master/README.md"
+  },
   "require": {
     "php": ">=8.2",
     "craftcms/cms": "^5.9.0"
@@ -19,7 +37,7 @@
     "handle": "_block-board",
     "name": "Block Board",
     "developer": "LuckyTurn",
-    "documentationUrl": "",
+    "documentationUrl": "https://github.com/luckyturnmedia/repo/blob/master/README.md",
     "class": "luckyturn\\craftblockboard\\BlockBoard"
   },
   "scripts": {
