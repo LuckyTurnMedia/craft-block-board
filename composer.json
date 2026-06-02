@@ -16,9 +16,9 @@
   ],
   "support": {
     "email": "paul.stone@luckyturnmedia.co.uk",
-    "issues": "https://github.com/luckyturnmedia/repo/issues?state=open",
-    "source": "https://github.com/luckyturnmedia/repo",
-    "docs": "https://github.com/luckyturnmedia/repo/blob/master/README.md"
+    "issues": "https://github.com/LuckyTurnMedia/craft-block-board/issues?state=open",
+    "source": "https://github.com/LuckyTurnMedia/craft-block-board",
+    "docs": "https://github.com/LuckyTurnMedia/craft-block-board/blob/master/README.md"
   },
   "require": {
     "php": ">=8.2",
@@ -37,7 +37,7 @@
     "handle": "_block-board",
     "name": "Block Board",
     "developer": "LuckyTurn",
-    "documentationUrl": "https://github.com/luckyturnmedia/repo/blob/master/README.md",
+    "documentationUrl": "https://github.com/LuckyTurnMedia/craft-block-board/blob/develop/README.md",
     "class": "luckyturn\\craftblockboard\\BlockBoard"
   },
   "scripts": {
